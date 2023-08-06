@@ -1,0 +1,15 @@
+.checkPaymentsBack{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+
+.displayPayments{
+  text-align: center;
+  background-color: #f1f1f1;
+  /* border-radius: 10px; */
+  margin-top: 10px;
+  
+}
+
